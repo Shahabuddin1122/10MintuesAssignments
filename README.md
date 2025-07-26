@@ -45,6 +45,10 @@ The application will be available at:
 - Local: http://127.0.0.1:8000
 - Docs: http://127.0.0.1:8000/docs
 
+## System Requirement Specifications
+```bash
+Report.pdf
+```
 ## File Structure
 
 ```bash
